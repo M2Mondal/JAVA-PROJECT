@@ -1,4 +1,5 @@
-import java.util.*;
+import java.util.*;{
+    
 public class Addition{
     
     public static int sum(int num1, int num2){
@@ -19,4 +20,5 @@ public class Addition{
         
         System.out.println("The sum of "+n1+" and "+n2+" is "+sum);
     }
+}
 }
